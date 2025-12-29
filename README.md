@@ -1,2 +1,2 @@
-# neural_networks_from_scratch
-Intersession Course 2026
+# Neural Networks from Scratch
+Class lectures, code, data, etc.
